@@ -142,7 +142,6 @@ def SystemInfo():
     print(f"- DiskFree: {DiskFree1}")
     print(f"- DiskTotal: {DiskTotal1}")
     print(f"- DiskUsed: {DiskUsed1}")
-    #print('- Антивирус:',end="")
     print("- Antivirus: " + str(Antiviruses))
     print(f"{palcki}")
 
